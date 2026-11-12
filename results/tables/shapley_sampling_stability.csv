@@ -1,0 +1,7 @@
+dataset,score,explained_cases,half_split_rank_spearman,half_split_top_k_jaccard,mc_standard_error_share
+HTRU2,pulsar vs non_pulsar,24,0.9761904761904763,1.0,0.18476940536020978
+Gas Sensor Array Drift,ethylene vs ethanol,24,0.9923390886825785,1.0,0.11809346457139148
+Gas Sensor Array Drift,ammonia vs ethanol,24,0.9928095019743378,0.8181818181818182,0.12805619336212043
+Gas Sensor Array Drift,acetaldehyde vs ethanol,24,0.9943748211731045,1.0,0.13425086840842979
+Gas Sensor Array Drift,acetone vs ethanol,24,0.9909027572218991,1.0,0.12041609042166296
+Gas Sensor Array Drift,toluene vs ethanol,24,0.9936404882158478,0.8181818181818182,0.12707539831124118

@@ -1,0 +1,25 @@
+dataset,model,row,true_class,teacher_class,student_class,teacher_correct,student_correct,agrees_with_teacher,score_rmse,teacher_confidence,features_outside_training_range,max_abs_training_z,selected_for
+HTRU2,PCE,8916,non_pulsar,pulsar,non_pulsar,False,True,False,6.0699153316510985,0.7509236806138556,0,1.632051413410972,largest score error
+HTRU2,PCE,991,pulsar,pulsar,non_pulsar,True,False,False,5.746912679911517,0.9591171390128265,0,1.649423174341498,largest score error
+HTRU2,PCE,7611,non_pulsar,pulsar,non_pulsar,False,True,False,5.345968380916146,0.7241894319705204,0,0.6350880934193055,largest score error
+HTRU2,PCE,5761,non_pulsar,pulsar,non_pulsar,False,True,False,3.9642607435691044,0.9770594127227985,0,0.9585017119282412,most confident disagreement
+HTRU2,PCE,1775,pulsar,pulsar,non_pulsar,True,False,False,3.9275782020901198,0.9628045840417615,0,4.248348104941428,most confident disagreement
+HTRU2,PCE,991,pulsar,pulsar,non_pulsar,True,False,False,5.746912679911517,0.9591171390128265,0,1.649423174341498,most confident disagreement
+HTRU2,GAM,8916,non_pulsar,pulsar,non_pulsar,False,True,False,6.666625564428208,0.7509236806138556,0,1.632051413410972,largest score error
+HTRU2,GAM,17644,non_pulsar,non_pulsar,non_pulsar,True,True,True,5.957268114740082,0.5627879633953479,0,1.2854034409033446,largest score error
+HTRU2,GAM,15794,non_pulsar,non_pulsar,non_pulsar,True,True,True,5.82372547461502,0.6398611832955498,0,1.9510408651812234,largest score error
+HTRU2,GAM,991,pulsar,pulsar,non_pulsar,True,False,False,4.6363389101466295,0.9591171390128265,0,1.649423174341498,most confident disagreement
+HTRU2,GAM,5523,pulsar,pulsar,non_pulsar,True,False,False,3.2637391032954675,0.9560014863589538,0,1.5116343769534666,most confident disagreement
+HTRU2,GAM,8037,pulsar,pulsar,non_pulsar,True,False,False,3.6922667448433835,0.9505432659360077,0,5.4955874574642305,most confident disagreement
+Gas Sensor Array Drift,PCE,667,ethanol,ethylene,acetaldehyde,False,False,False,167.62294136356104,0.9972371467009065,6,174.0502865541595,largest score error
+Gas Sensor Array Drift,PCE,662,ethanol,ethylene,ammonia,False,False,False,126.69049595508642,0.8531806622393061,5,25.84351619550547,largest score error
+Gas Sensor Array Drift,PCE,3610,acetone,acetone,ammonia,True,False,False,34.28969337423659,0.9744383679105119,10,16.389058135605644,largest score error
+Gas Sensor Array Drift,PCE,12657,ammonia,ammonia,ethylene,True,False,False,4.373569120778527,0.9999539116513468,0,1.5474780486593547,most confident disagreement
+Gas Sensor Array Drift,PCE,12621,ammonia,ammonia,ethylene,True,False,False,4.269889509275244,0.999948772557485,0,1.5461425114251408,most confident disagreement
+Gas Sensor Array Drift,PCE,9946,ethanol,ethanol,toluene,True,False,False,7.134714734178522,0.9999382956984333,0,1.116551863775431,most confident disagreement
+Gas Sensor Array Drift,GAM,9775,ammonia,ammonia,ammonia,True,True,True,7.000784752394474,0.99960941287262,0,3.6443374622610025,largest score error
+Gas Sensor Array Drift,GAM,4021,ammonia,ammonia,ammonia,True,True,True,6.167514247357627,0.9539968330287262,0,0.6022260941064849,largest score error
+Gas Sensor Array Drift,GAM,247,ammonia,acetone,toluene,False,False,False,6.0292455791568464,0.46470664707068304,0,5.8010436562631,largest score error
+Gas Sensor Array Drift,GAM,12086,ethanol,ethanol,acetaldehyde,True,False,False,4.911506135140187,0.9980595455447583,0,1.6448623869825874,most confident disagreement
+Gas Sensor Array Drift,GAM,667,ethanol,ethylene,acetone,False,False,False,5.536841295470768,0.9972371467009065,6,174.0502865541595,most confident disagreement
+Gas Sensor Array Drift,GAM,459,ethanol,ethanol,acetaldehyde,True,False,False,4.651123621718587,0.9914288238128744,0,1.2261376838388125,most confident disagreement

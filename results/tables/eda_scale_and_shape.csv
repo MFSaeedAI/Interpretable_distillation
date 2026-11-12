@@ -1,0 +1,3 @@
+dataset,largest_to_smallest_std_ratio,features_with_abs_skewness_above_2,median_outlier_share
+HTRU2,100.18750700558797,4,0.0729186068169119
+Gas Sensor Array Drift,130263.38386336423,77,0.03564581835609873

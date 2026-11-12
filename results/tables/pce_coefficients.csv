@@ -1,0 +1,193 @@
+dataset,score,term,order,coefficient
+HTRU2,pulsar vs non_pulsar,p1(Profile mean),1,2.1559960637625286
+HTRU2,pulsar vs non_pulsar,p1(Profile SD),1,0.13467513076993354
+HTRU2,pulsar vs non_pulsar,p1(Profile skew),1,0.405085458892563
+HTRU2,pulsar vs non_pulsar,p1(Profile kurt),1,2.7075795164622267
+HTRU2,pulsar vs non_pulsar,p1(DM SD),1,3.2744404132393243
+HTRU2,pulsar vs non_pulsar,p1(DM skew),1,1.7978912779989888
+HTRU2,pulsar vs non_pulsar,p2(Profile mean),1,-1.7809483282959513
+HTRU2,pulsar vs non_pulsar,p2(Profile SD),1,-0.059586299750910815
+HTRU2,pulsar vs non_pulsar,p2(Profile skew),1,-2.60430860732249
+HTRU2,pulsar vs non_pulsar,p2(Profile kurt),1,1.0284596853300805
+HTRU2,pulsar vs non_pulsar,p2(DM mean),1,0.03902449927998223
+HTRU2,pulsar vs non_pulsar,p2(DM SD),1,-0.31680883749349115
+HTRU2,pulsar vs non_pulsar,p2(DM skew),1,-0.08434690055239426
+HTRU2,pulsar vs non_pulsar,p2(DM kurt),1,-0.009920234866712372
+HTRU2,pulsar vs non_pulsar,z(Profile skew) * z(DM kurt),2,-0.3288458350336002
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(DM SD),2,-0.13743219189902853
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(DM skew),2,0.6943885963913443
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(Profile skew),2,-2.6621112284465
+HTRU2,pulsar vs non_pulsar,z(Profile SD) * z(Profile skew),2,-0.08643449850016131
+HTRU2,pulsar vs non_pulsar,z(Profile kurt) * z(DM SD),2,-0.3601469391335124
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(Profile kurt),2,1.6501834436677287
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(DM kurt),2,-0.2797324337908739
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(Profile SD),2,-0.11502778884902037
+HTRU2,pulsar vs non_pulsar,z(Profile skew) * z(DM mean),2,-0.4015360324920268
+HTRU2,pulsar vs non_pulsar,z(Profile mean) * z(DM mean),2,0.19064305365909115
+HTRU2,pulsar vs non_pulsar,z(Profile kurt) * z(DM mean),2,0.5705465852561612
+HTRU2,pulsar vs non_pulsar,z(Profile SD) * z(DM SD),2,-0.09057938626716812
+HTRU2,pulsar vs non_pulsar,z(Profile SD) * z(DM skew),2,0.09159047550664215
+HTRU2,pulsar vs non_pulsar,z(DM SD) * z(DM skew),2,1.2999851011035377
+HTRU2,pulsar vs non_pulsar,z(Profile SD) * z(DM kurt),2,0.002923498766255098
+HTRU2,pulsar vs non_pulsar,z(Profile SD) * z(DM mean),2,0.1751630304455524
+HTRU2,pulsar vs non_pulsar,z(DM mean) * z(DM SD),2,0.1402140508518883
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S01 rise-0.1),1,-1.6440742461444158
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S01 decay-0.001),1,2.666234850783655
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S01 decay-0.001),1,1.1689624277855863
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S01 decay-0.1),1,-1.1895644584761034
+Gas Sensor Array Drift,acetone vs ethanol,p1(S02 dR),1,8.065356321172176
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S02 norm-dR),1,-0.26231731884355847
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S02 norm-dR),1,-0.017869485572203376
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S02 rise-0.01),1,4.944699658550624
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S02 rise-0.01),1,2.7507130787539813
+Gas Sensor Array Drift,toluene vs ethanol,p1(S02 rise-0.01),1,10.232006725269905
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S02 rise-0.1),1,0.545227500754246
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S02 decay-0.1),1,-1.7965738405995597
+Gas Sensor Array Drift,acetone vs ethanol,p1(S02 decay-0.1),1,-2.6845202727354827
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S03 norm-dR),1,1.0661080042682143
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S03 decay-0.01),1,-1.4634163568443694
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S04 dR),1,5.87316455379876
+Gas Sensor Array Drift,acetone vs ethanol,p1(S04 dR),1,3.0674413551386044
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S04 norm-dR),1,-0.8443295849546242
+Gas Sensor Array Drift,toluene vs ethanol,p1(S04 norm-dR),1,-1.6854093239545616
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S04 rise-0.001),1,3.4592173459547686
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S04 rise-0.1),1,-0.02007106840013607
+Gas Sensor Array Drift,toluene vs ethanol,p1(S04 rise-0.1),1,-0.8254676615452368
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S05 rise-0.1),1,3.043854280088702
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S05 decay-0.01),1,-2.6721540776269275
+Gas Sensor Array Drift,toluene vs ethanol,p1(S06 decay-0.001),1,-2.1664103862120037
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S06 decay-0.01),1,1.5484586010097554
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S06 decay-0.1),1,1.4064664827186482
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S09 dR),1,-2.573321357829946
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S09 norm-dR),1,-1.225515266524128
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S09 norm-dR),1,1.5082510097769308
+Gas Sensor Array Drift,acetone vs ethanol,p1(S09 rise-0.1),1,-2.9233596789537573
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S09 decay-0.001),1,4.177294668442779
+Gas Sensor Array Drift,toluene vs ethanol,p1(S09 decay-0.1),1,-2.374803186411208
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S10 rise-0.1),1,-3.6796698840435167
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S10 rise-0.1),1,-2.644164160201173
+Gas Sensor Array Drift,toluene vs ethanol,p1(S10 rise-0.1),1,-5.239841504121424
+Gas Sensor Array Drift,acetone vs ethanol,p1(S10 decay-0.001),1,4.023044704041796
+Gas Sensor Array Drift,toluene vs ethanol,p1(S10 decay-0.001),1,6.4429328976191265
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S11 dR),1,3.7632662528148324
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S11 rise-0.01),1,5.693827957698338
+Gas Sensor Array Drift,toluene vs ethanol,p1(S12 dR),1,-2.6595497249749838
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S12 rise-0.1),1,-3.3623644490887155
+Gas Sensor Array Drift,toluene vs ethanol,p1(S12 rise-0.1),1,1.5293141521553733
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S12 decay-0.1),1,-0.1843366201684933
+Gas Sensor Array Drift,ethylene vs ethanol,p1(S13 rise-0.01),1,-8.996758062159097
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S13 rise-0.01),1,-3.2851180836949605
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S13 rise-0.01),1,-3.260120948647738
+Gas Sensor Array Drift,toluene vs ethanol,p1(S13 rise-0.01),1,-5.959704158344417
+Gas Sensor Array Drift,acetone vs ethanol,p1(S13 decay-0.1),1,0.15070312756568954
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S14 dR),1,-3.9450801278619716
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S14 norm-dR),1,2.4274734674360094
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p1(S14 norm-dR),1,-1.1427738404672432
+Gas Sensor Array Drift,toluene vs ethanol,p1(S14 norm-dR),1,1.1203563498741553
+Gas Sensor Array Drift,acetone vs ethanol,p1(S14 rise-0.01),1,-4.958202693786708
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S15 norm-dR),1,-3.2181727500967945
+Gas Sensor Array Drift,ammonia vs ethanol,p1(S16 rise-0.1),1,-3.2198360324437254
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S01 dR),1,-2.363386533173867
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S01 dR),1,0.29528787859789707
+Gas Sensor Array Drift,acetone vs ethanol,p2(S01 norm-dR),1,0.8780387968856159
+Gas Sensor Array Drift,acetone vs ethanol,p2(S01 rise-0.01),1,0.7792018942417329
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S01 rise-0.1),1,0.5419469682379194
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S01 decay-0.001),1,-1.7482748475121581
+Gas Sensor Array Drift,toluene vs ethanol,p2(S01 decay-0.01),1,-0.5612005224942803
+Gas Sensor Array Drift,acetone vs ethanol,p2(S01 decay-0.1),1,-0.36800362845902657
+Gas Sensor Array Drift,acetone vs ethanol,p2(S02 dR),1,-3.7196924721356126
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S02 norm-dR),1,-0.2966478066305908
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S02 norm-dR),1,0.27273634005271286
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S02 norm-dR),1,-0.18619285531263774
+Gas Sensor Array Drift,toluene vs ethanol,p2(S02 norm-dR),1,-0.5733121670584046
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S02 rise-0.01),1,-1.8878602570566048
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S02 rise-0.01),1,0.625922681716944
+Gas Sensor Array Drift,toluene vs ethanol,p2(S02 rise-0.01),1,-2.5068268301760126
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S02 decay-0.1),1,-0.437290305774922
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S02 decay-0.1),1,-0.4589351415562901
+Gas Sensor Array Drift,acetone vs ethanol,p2(S02 decay-0.1),1,-0.8800150531352757
+Gas Sensor Array Drift,toluene vs ethanol,p2(S03 dR),1,0.5805947672101802
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S03 norm-dR),1,-0.46512491726802924
+Gas Sensor Array Drift,toluene vs ethanol,p2(S03 rise-0.001),1,0.8343221743956948
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S03 decay-0.001),1,-0.688341160271895
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S03 decay-0.001),1,-0.34627092071266585
+Gas Sensor Array Drift,acetone vs ethanol,p2(S03 decay-0.001),1,-0.7730936426526289
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S03 decay-0.1),1,0.6717546822710575
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S03 decay-0.1),1,-1.0585575522102275
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S03 decay-0.1),1,-0.7376909646489207
+Gas Sensor Array Drift,acetone vs ethanol,p2(S03 decay-0.1),1,0.1601537444324821
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S04 rise-0.001),1,-0.10719521634756264
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S04 rise-0.001),1,-1.410270520258619
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S04 decay-0.1),1,-0.2708451139029452
+Gas Sensor Array Drift,acetone vs ethanol,p2(S04 decay-0.1),1,-0.06256397641832896
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S05 rise-0.1),1,-1.3155095774044452
+Gas Sensor Array Drift,acetone vs ethanol,p2(S05 rise-0.1),1,-0.6879152894749823
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S05 decay-0.1),1,0.4790594778163515
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S06 dR),1,0.6780537236490841
+Gas Sensor Array Drift,acetone vs ethanol,p2(S06 norm-dR),1,1.3083157503881246
+Gas Sensor Array Drift,acetone vs ethanol,p2(S06 decay-0.001),1,0.7404836502875266
+Gas Sensor Array Drift,acetone vs ethanol,p2(S06 decay-0.1),1,-0.23698785122337981
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S07 decay-0.1),1,0.6744411877819297
+Gas Sensor Array Drift,acetone vs ethanol,p2(S08 dR),1,-0.8523930962278055
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S09 dR),1,2.1752795072977054
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S09 dR),1,2.837627677660326
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S09 norm-dR),1,0.6406465698145476
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S09 norm-dR),1,-0.47408503548776815
+Gas Sensor Array Drift,acetone vs ethanol,p2(S09 rise-0.1),1,0.7000639693249293
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S09 decay-0.1),1,0.36851235722086184
+Gas Sensor Array Drift,toluene vs ethanol,p2(S09 decay-0.1),1,-0.3389678683482298
+Gas Sensor Array Drift,toluene vs ethanol,p2(S10 dR),1,2.307691515778198
+Gas Sensor Array Drift,acetone vs ethanol,p2(S10 norm-dR),1,0.49369911618570195
+Gas Sensor Array Drift,toluene vs ethanol,p2(S10 norm-dR),1,0.4434095188294379
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S10 rise-0.1),1,1.0262663994069938
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S10 rise-0.1),1,1.0841295338457912
+Gas Sensor Array Drift,acetone vs ethanol,p2(S10 rise-0.1),1,0.3035933874958136
+Gas Sensor Array Drift,toluene vs ethanol,p2(S10 rise-0.1),1,1.8110102684522982
+Gas Sensor Array Drift,acetone vs ethanol,p2(S10 decay-0.001),1,2.0951128495698152
+Gas Sensor Array Drift,toluene vs ethanol,p2(S11 norm-dR),1,1.1350881741044196
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S11 rise-0.001),1,-2.983463204907387
+Gas Sensor Array Drift,acetone vs ethanol,p2(S11 rise-0.1),1,-1.181208569977648
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S12 rise-0.001),1,-3.505729846901401
+Gas Sensor Array Drift,toluene vs ethanol,p2(S12 rise-0.1),1,-0.8644615260941033
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S12 decay-0.1),1,0.04964161962210576
+Gas Sensor Array Drift,toluene vs ethanol,p2(S12 decay-0.1),1,-0.44547674000625004
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S13 dR),1,-1.4494604375562519
+Gas Sensor Array Drift,toluene vs ethanol,p2(S13 norm-dR),1,-0.972806739214884
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S13 rise-0.01),1,1.3440447574018566
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S13 rise-0.01),1,0.6171456291084318
+Gas Sensor Array Drift,acetone vs ethanol,p2(S13 rise-0.01),1,1.0660925815031657
+Gas Sensor Array Drift,toluene vs ethanol,p2(S13 rise-0.1),1,1.27635571702754
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S14 dR),1,-1.3149144741431442
+Gas Sensor Array Drift,ethylene vs ethanol,p2(S14 norm-dR),1,-0.47545453769664875
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S14 norm-dR),1,-0.7873154244208589
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S14 norm-dR),1,0.6503840390617669
+Gas Sensor Array Drift,acetone vs ethanol,p2(S14 norm-dR),1,0.3561311986430085
+Gas Sensor Array Drift,acetone vs ethanol,p2(S14 rise-0.001),1,0.5704023823321618
+Gas Sensor Array Drift,toluene vs ethanol,p2(S14 rise-0.001),1,-2.316059550240312
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S14 rise-0.1),1,-1.3560020598924574
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S14 decay-0.1),1,-0.5395780321749225
+Gas Sensor Array Drift,toluene vs ethanol,p2(S14 decay-0.1),1,0.2704062573435439
+Gas Sensor Array Drift,acetaldehyde vs ethanol,p2(S15 rise-0.01),1,5.888554143294395
+Gas Sensor Array Drift,acetone vs ethanol,p2(S15 rise-0.01),1,1.4777825167383127
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S15 decay-0.1),1,0.258015263437792
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S16 norm-dR),1,1.2828156205942185
+Gas Sensor Array Drift,acetone vs ethanol,p2(S16 norm-dR),1,0.716275868053439
+Gas Sensor Array Drift,ammonia vs ethanol,p2(S16 rise-0.1),1,1.707082450018201
+Gas Sensor Array Drift,toluene vs ethanol,z(S08 rise-0.1) * z(S09 norm-dR),2,-1.047219721294093
+Gas Sensor Array Drift,ethylene vs ethanol,z(S07 rise-0.1) * z(S09 norm-dR),2,-1.3591506139902685
+Gas Sensor Array Drift,acetaldehyde vs ethanol,z(S09 norm-dR) * z(S14 rise-0.1),2,-0.4294573799639266
+Gas Sensor Array Drift,ethylene vs ethanol,z(S02 rise-0.001) * z(S02 rise-0.01),2,1.8235405835667018
+Gas Sensor Array Drift,acetaldehyde vs ethanol,z(S13 rise-0.01) * z(S16 rise-0.1),2,-3.7143078893211965
+Gas Sensor Array Drift,ethylene vs ethanol,z(S08 rise-0.01) * z(S09 decay-0.001),2,0.6770318332915775
+Gas Sensor Array Drift,acetaldehyde vs ethanol,z(S13 dR) * z(S14 rise-0.01),2,1.19983351583424
+Gas Sensor Array Drift,ethylene vs ethanol,z(S13 dR) * z(S13 rise-0.01),2,3.1554505482998443
+Gas Sensor Array Drift,toluene vs ethanol,z(S13 dR) * z(S13 rise-0.01),2,3.9971102548331094
+Gas Sensor Array Drift,ammonia vs ethanol,z(S03 rise-0.01) * z(S09 rise-0.001),2,-1.4594773016693467
+Gas Sensor Array Drift,toluene vs ethanol,z(S03 rise-0.01) * z(S09 rise-0.001),2,-2.526089971519224
+Gas Sensor Array Drift,acetone vs ethanol,z(S09 norm-dR) * z(S14 norm-dR),2,-0.6516147611741575
+Gas Sensor Array Drift,toluene vs ethanol,z(S09 norm-dR) * z(S14 norm-dR),2,-0.5907889078785599
+Gas Sensor Array Drift,ammonia vs ethanol,z(S03 rise-0.001) * z(S11 rise-0.01),2,-0.9526655617433717
+Gas Sensor Array Drift,ammonia vs ethanol,z(S09 norm-dR) * z(S09 decay-0.001),2,-0.3971907255680046
+Gas Sensor Array Drift,acetone vs ethanol,z(S09 norm-dR) * z(S09 decay-0.001),2,-0.5189540500795775
+Gas Sensor Array Drift,toluene vs ethanol,z(S09 norm-dR) * z(S09 decay-0.001),2,-0.5275640694867111
+Gas Sensor Array Drift,ammonia vs ethanol,z(S13 decay-0.001) * z(S14 rise-0.01),2,-1.4342844641436028

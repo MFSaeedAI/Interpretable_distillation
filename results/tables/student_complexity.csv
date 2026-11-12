@@ -1,0 +1,5 @@
+dataset,model,features_used,effect_components,pairwise_components,nonzero_coefficients
+HTRU2,PCE,8,32,18,32
+HTRU2,GAM,8,8,0,48
+Gas Sensor Array Drift,PCE,74,104,13,160
+Gas Sensor Array Drift,GAM,128,128,0,3840

@@ -1,0 +1,5 @@
+dataset,model,teacher_wrong_student_agrees,teacher_correct_student_wrong,teacher_wrong_student_correct,cases_outside_training_range,spearman_error_vs_extremeness
+HTRU2,PCE,53,19,32,3,0.05595619715583978
+HTRU2,GAM,59,23,26,3,0.0838238590313274
+Gas Sensor Array Drift,PCE,4,99,1,22,-0.04242924699595095
+Gas Sensor Array Drift,GAM,3,10,2,22,0.02580935059498262

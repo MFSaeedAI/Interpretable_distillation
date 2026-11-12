@@ -1,0 +1,3 @@
+dataset,largest_class,smallest_class,imbalance_ratio
+HTRU2,9755,983,9.923702950152594
+Gas Sensor Array Drift,1805,985,1.83248730964467
